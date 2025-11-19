@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @termoplan, or Evgeny Chernyavsky, or Evgenii Cherniavskii
+- 👋 Hi, I’m @termoplan, or Evgeny Chernyavsky,
 - 👀 I do Business Analysis
-- 📫 I check my mails at termoplan(a)gmail.com
+- 📫 I mostly check my mails at plan2plan(a)yandex.ru
 
 <!---
 termoplan/termoplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
