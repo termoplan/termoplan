@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @termoplan, or Evgeny Chernyavsky,
-- 👀 I do Business Analysis
+- 👀 I do Business Analysis & System Analysis
 - 📫 I mostly check my mails at plan2plan(a)yandex.ru
 
 <!---
